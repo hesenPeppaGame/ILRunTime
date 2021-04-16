@@ -1,0 +1,16 @@
+C:\GitHub\ILRunTime\ILInject\bin\Debug\ILInject.exe.config
+C:\GitHub\ILRunTime\ILInject\bin\Debug\ILInject.exe
+C:\GitHub\ILRunTime\ILInject\bin\Debug\ILInject.pdb
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.dll
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.Mdb.dll
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.Pdb.dll
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.Rocks.dll
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.pdb
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\GitHub\ILRunTime\ILInject\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\GitHub\ILRunTime\ILInject\obj\Debug\ILInject.csprojAssemblyReference.cache
+C:\GitHub\ILRunTime\ILInject\obj\Debug\ILInject.csproj.CoreCompileInputs.cache
+C:\GitHub\ILRunTime\ILInject\obj\Debug\ILInject.csproj.CopyComplete
+C:\GitHub\ILRunTime\ILInject\obj\Debug\ILInject.exe
+C:\GitHub\ILRunTime\ILInject\obj\Debug\ILInject.pdb
